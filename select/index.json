@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "虚無さん",
+  "base_artist": "¿?shimon",
+  "createdAt": "2026-01-13T11:43:32.661339Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "虚無さん",
+      "artist": "¿?shimon",
+      "has_synced": true,
+      "path": "select/01_虚無さん_¿_shimon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "虚無さん",
+      "artist": "¿?shimon",
+      "has_synced": false,
+      "path": "select/pl_01_虚無さん_¿_shimon.txt"
+    }
+  ]
+}
